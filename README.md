@@ -1,5 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+## Share Prompt
+  This applicaiton develop for share any prompt between the users. Any user can share his prompt in this platform. To share their paltform just login using there google account. 
+  
+ ## Technologies
+  Next.js
+  Tailwaind css
+  MongoDB
+  Typescript
 ## Getting Started
 
 First, run the development server:
