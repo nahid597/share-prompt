@@ -1,11 +1,9 @@
 ## Share Prompt
-  This applicaiton develop for share any prompt between the users. Any user can share his prompt in this platform. To share their paltform just login using there google account. 
+  This applicaiton develop for share any prompt between the users. Any user can share his prompt in this platform. To share their prompts just login using there google account. 
   
  ## Technologies
-  Next.js
-  Tailwaind css
-  MongoDB
-  Typescript
+  Next.js, Tailwaind css, MongoDB, Typescript
+  
 ## Getting Started
 
 First, run the development server:
