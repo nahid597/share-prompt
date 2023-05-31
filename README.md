@@ -1,7 +1,7 @@
 ## Share Prompt
   This applicaiton develop for share any prompt between the users. Any user can share his prompt in this platform. To share their prompts just login using there google account. 
   
-  Live Open [https://share-prompt-dqz9rtjdu-nahid597.vercel.app/]([http://localhost:3000](https://share-prompt-dqz9rtjdu-nahid597.vercel.app/)) with your browser to see the demo.
+  Live Open [https://share-prompt-dqz9rtjdu-nahid597.vercel.app/](https://share-prompt-dqz9rtjdu-nahid597.vercel.app/) with your browser to see the demo.
   
  ## Technologies
   Next.js, Tailwaind css, MongoDB, Typescript
